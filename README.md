@@ -24,3 +24,4 @@ OTHERS
 10. https://docs.ziyad.info/en/LazZiya.TagHelpers/v6.0/Alerts-TagHelper-Front-end-Alerts.md
 11. https://github.com/LazZiya/TagHelpers
 12. https://demo.ziyad.info/en/paging?&p=8&s=10
+13. https://stackoverflow.com/questions/50928891/how-to-implement-pagination-in-asp-net-core-razor-pages
