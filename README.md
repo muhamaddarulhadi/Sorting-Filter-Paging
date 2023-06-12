@@ -21,3 +21,5 @@ OTHERS
 7. https://www.c-sharpcorner.com/article/sorting-filtering-search-box-and-paging-in-net-core-2-razor-pages/
 8. https://www.mikesdotnetting.com/article/329/adding-sorting-to-paging-in-asp-net-core-razor-pages
 9. https://github.com/dotnet/AspNetCore.Docs/blob/main/aspnetcore/data/ef-rp/sort-filter-page.md
+10. https://docs.ziyad.info/en/LazZiya.TagHelpers/v6.0/Alerts-TagHelper-Front-end-Alerts.md
+11. https://github.com/LazZiya/TagHelpers
